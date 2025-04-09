@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\Hexaware c#\\GitDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1D28F9C-C818-4708-9844-546A050A96BC}|Gitdemo.csproj|c:\\users\\dell\\source\\hexaware c#\\gitdemo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1D28F9C-C818-4708-9844-546A050A96BC}|Gitdemo.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1D28F9C-C818-4708-9844-546A050A96BC}|Gitdemo.csproj|c:\\users\\dell\\source\\hexaware c#\\gitdemo\\employee1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D28F9C-C818-4708-9844-546A050A96BC}|Gitdemo.csproj|solutionrelative:employee1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\Hexaware c#\\GitDemo\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\Hexaware c#\\GitDemo\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Employee1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\Hexaware c#\\Gitdemo\\Employee1.cs",
+              "RelativeDocumentMoniker": "Employee1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\Hexaware c#\\Gitdemo\\Employee1.cs",
+              "RelativeToolTip": "Employee1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T07:07:33.18Z",
               "EditorCaption": ""
